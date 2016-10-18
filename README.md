@@ -1,3 +1,3 @@
 # CSharpPortfolio
-[Classes](Classes/README.md)
-[Lists](Lists/README.md)
+* [Classes](Classes/README.md)
+* [Lists](Lists/README.md)
